@@ -373,6 +373,10 @@
     {
       "packageName": "@tictactoe/remote-multiplayer",
       "projectFolder": "tictactoe/remote-multiplayer"
+    },
+    {
+      "packageName": "@tictactoe/server",
+      "projectFolder": "tictactoe/server"
     }
     // {
     //   /**

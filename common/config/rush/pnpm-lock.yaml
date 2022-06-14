@@ -51,6 +51,19 @@ importers:
       typescript: 4.7.3
       vite: 2.9.12
 
+  ../../tictactoe/server:
+    specifiers:
+      boardgame.io: ^0.49.12
+      esbuild: ^0.14.43
+      node-persist: ^3.1.0
+      typescript: ^4.6.3
+    dependencies:
+      boardgame.io: 0.49.12
+      node-persist: 3.1.0
+    devDependencies:
+      esbuild: 0.14.43
+      typescript: 4.7.3
+
 packages:
 
   /@ampproject/remapping/2.2.0:
