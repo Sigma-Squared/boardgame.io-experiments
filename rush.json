@@ -367,12 +367,12 @@
    */
   "projects": [
     {
-      "packageName": "@tictactoe/local-multiplyer",
-      "projectFolder": "tictactoe/local-multiplyer"
+      "packageName": "@tictactoe/local-multiplayer",
+      "projectFolder": "tictactoe/local-multiplayer"
     },
     {
-      "packageName": "@tictactoe/remote-multiplyer",
-      "projectFolder": "tictactoe/remote-multiplyer"
+      "packageName": "@tictactoe/remote-multiplayer",
+      "projectFolder": "tictactoe/remote-multiplayer"
     }
     // {
     //   /**
