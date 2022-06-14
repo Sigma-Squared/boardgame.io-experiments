@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "module": "commonjs", /* boardgame.io only has cjs modules for server-side code */
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "src/server.ts",
+    "src/Game.ts"
+  ]
+}
