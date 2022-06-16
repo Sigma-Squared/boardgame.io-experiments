@@ -19,6 +19,7 @@ export interface GameState {
 }
 export default {
   name: "tic-tac-toe",
+  maxPlayers: 2,
   setup: () => ({
     cells: Array(9).fill(null),
   }),
